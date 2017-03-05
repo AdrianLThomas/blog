@@ -1,1 +1,1 @@
-# blog
+WIP. The intention is to move the blogger site (http://blog.adrian-thomas.com/) to Jekyll, hosted on GitHub. Using this to host some public files in the meantime (as Dropbox have stopped public folders!)
