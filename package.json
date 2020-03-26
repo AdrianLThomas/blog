@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "My personal programming blog, with a hint of petroleum..",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Adrian L Thomas <adrian.thomas@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/AdrianLThomas/blog"
   },
   "dependencies": {
     "gatsby": "^2.19.45",
@@ -56,6 +56,6 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
-    "postbuild": "rm -rf docs/* && mv public/* docs && echo 'blog2.adrian-thomas.com' >> docs/CNAME"
+    "postbuild": "rm -rf docs/* && mv public/* docs && echo 'blog.adrian-thomas.com' >> docs/CNAME"
   }
 }
