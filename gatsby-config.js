@@ -3,7 +3,7 @@ module.exports = {
     title: `Adrian's Dev Blog`,
     author: {
       name: `Adrian L Thomas`,
-      summary: `Polyglot Engineer in West Yorkshire`,
+      summary: `Polyglot Software Engineer in West Yorkshire`,
     },
     description: `My personal programming blog, with a hint of petroleum..`,
     siteUrl: `https://blog.adrian-thomas.com/`,
