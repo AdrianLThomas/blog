@@ -56,6 +56,6 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 0",
-    "postbuild": "rm -rf docs/* && cp -r public/* docs/ && echo 'blog.adrian-thomas.com' >> docs/CNAME"
+    "postbuild": "rm -rf docs/* && mv public/* docs && echo 'blog.adrian-thomas.com' >> docs/CNAME"
   }
 }
